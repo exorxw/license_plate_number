@@ -56,7 +56,6 @@ const alphabets = [
     'T',
     'Y',
     'U',
-    'O',
     'P',
   ],
   [
